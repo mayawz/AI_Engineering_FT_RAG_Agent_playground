@@ -1,6 +1,8 @@
-# requirements file
-# pip install the following
-openai==1.50.0
-python-dotenv==1.0.0
-pip install -U llama-index llama-index-llms-openai llama-index-embeddings-openai
-nest_asyncio
+# Prefer `uv sync` from the repository root for the shared environment.
+# These dependencies are listed here for standalone installs of this project.
+openai>=2.34.0
+python-dotenv>=1.2.2
+llama-index>=0.12.0
+llama-index-llms-openai>=0.4.0
+llama-index-embeddings-openai>=0.3.0
+nest-asyncio>=1.6.0
