@@ -1,3 +1,5 @@
 # RAG and Agentic AI playground
-- practices following a few deeplearning.ai tutorials
-- small projects for learning and testing 
+Host a series of RAG, Agentic, multimodal projects for learning and practicing purpose 
+- Agentic RAG with LlamaIndex
+- Job search assistant for learning about the company
+- Multimodal chatbot with Gradio 
